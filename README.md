@@ -8,3 +8,7 @@ Using the ratings of players for various attributes like speed, stamina, agility
 with best score is selected for a particular position according to the formation which I have decided.
 
 I have also visualized the outputs using seaborn. For the calculation purposes I have used numpy.
+
+The final Best FIFA Football XI looked something like this.
+
+![Image of Best_FIFA_Football_XI](https://octodex.github.com/images/yaktocat.png)
