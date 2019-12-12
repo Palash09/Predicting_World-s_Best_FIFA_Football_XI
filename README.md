@@ -11,4 +11,4 @@ I have also visualized the outputs using seaborn. For the calculation purposes I
 
 The final Best FIFA Football XI looked something like this.
 
-![Image of Best_FIFA_Football_XI](https://octodex.github.com/images/yaktocat.png)
+![Image of Best_FIFA_Football_XI](https://github.com/Palash09/Predicting_World-s_Best_FIFA_Football_XI/blob/master/World_BEST_XI.png)
